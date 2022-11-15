@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My virtual daisy field generator is here -> [The Great Daisy Experiment](https://daisy.halboth.dev/)
+My virtual 🌼daisy🌼 field generator is here  -> [The Great Daisy Experiment](https://daisy.halboth.dev/)
 
 ### GitHub Stats
 <a href="https://github.com/talitahalboth">
